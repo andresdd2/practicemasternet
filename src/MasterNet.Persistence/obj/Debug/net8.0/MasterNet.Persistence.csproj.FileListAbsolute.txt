@@ -1,0 +1,15 @@
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/bin/Debug/net8.0/MasterNet.Persistence.deps.json
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/bin/Debug/net8.0/MasterNet.Persistence.dll
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/bin/Debug/net8.0/MasterNet.Persistence.pdb
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/bin/Debug/net8.0/MasterNet.Domain.dll
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/bin/Debug/net8.0/MasterNet.Domain.pdb
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/obj/Debug/net8.0/MasterNet.Persistence.csproj.AssemblyReference.cache
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/obj/Debug/net8.0/MasterNet.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/obj/Debug/net8.0/MasterNet.Persistence.AssemblyInfoInputs.cache
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/obj/Debug/net8.0/MasterNet.Persistence.AssemblyInfo.cs
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/obj/Debug/net8.0/MasterNet.Persistence.csproj.CoreCompileInputs.cache
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/obj/Debug/net8.0/MasterNe.8A6D56B6.Up2Date
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/obj/Debug/net8.0/MasterNet.Persistence.dll
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/obj/Debug/net8.0/refint/MasterNet.Persistence.dll
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/obj/Debug/net8.0/MasterNet.Persistence.pdb
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Persistence/obj/Debug/net8.0/ref/MasterNet.Persistence.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CiBQLFLWOWhX4wOhvI48ii0h8RCyIJvK4mWNyz/K9E4=",
+  "Source": "MasterNet.webApi",
+  "BasePath": "_content/MasterNet.webApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

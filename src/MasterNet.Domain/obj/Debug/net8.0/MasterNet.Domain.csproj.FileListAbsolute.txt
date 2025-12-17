@@ -1,0 +1,11 @@
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/bin/Debug/net8.0/MasterNet.Domain.deps.json
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/bin/Debug/net8.0/MasterNet.Domain.dll
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/bin/Debug/net8.0/MasterNet.Domain.pdb
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/obj/Debug/net8.0/MasterNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/obj/Debug/net8.0/MasterNet.Domain.AssemblyInfoInputs.cache
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/obj/Debug/net8.0/MasterNet.Domain.AssemblyInfo.cs
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/obj/Debug/net8.0/MasterNet.Domain.csproj.CoreCompileInputs.cache
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/obj/Debug/net8.0/MasterNet.Domain.dll
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/obj/Debug/net8.0/refint/MasterNet.Domain.dll
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/obj/Debug/net8.0/MasterNet.Domain.pdb
+/Users/andres/Documents/Cursos/csharp/MasterNet/src/MasterNet.Domain/obj/Debug/net8.0/ref/MasterNet.Domain.dll

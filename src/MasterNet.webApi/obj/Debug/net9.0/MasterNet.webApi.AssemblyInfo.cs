@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MasterNet.webApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebdcb2c424b4c31d809efbff4499f117a36a4d37")]
 [assembly: System.Reflection.AssemblyProductAttribute("MasterNet.webApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MasterNet.webApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -19,6 +19,20 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
+    "http-staging": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5118",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Staging"
+      }
+    },
+    "http-prod": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5118",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      }
+    },
     "https": {
       "commandName": "Project",
       "dotnetRunMessages": true,
